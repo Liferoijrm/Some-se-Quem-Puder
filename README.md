@@ -19,10 +19,9 @@ Certifique-se de ter um compilador C instalado no seu sistema (por exemplo, GCC)
 Clone o repositório ou faça o download do arquivo .zip.
 Navegue até a pasta onde os arquivos foram extraídos.
 Compile o código main.c usando o seguinte comando (no terminal):
-css
-Copiar
-Editar
-gcc main.c -o game
+
+```gcc main.c -o game```
+
 Execute o jogo:
 bash
 Copiar
