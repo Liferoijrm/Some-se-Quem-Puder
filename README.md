@@ -1,4 +1,4 @@
-# 📌 README - Some-se Quem Puder
+# README - Some-se Quem Puder
 ## 🇧🇷 Some-se Quem Puder - Jogo de Lógica Matemática
 Some-se Quem Puder é um jogo de lógica numérica inspirado em NumberSums, desenvolvido como projeto final da disciplina Algoritmos e Programação de Computadores (APC) no 1º semestre do curso de Ciência da Computação na UnB.
 
@@ -6,8 +6,11 @@ O objetivo do jogo é combinar números para atingir um valor-alvo, utilizando r
 
 ## 🎯 Funcionalidades:
 ✔️ 3 níveis de dificuldade com matrizes de diferentes tamanhos
+
 ✔️ Interface no terminal simples e intuitiva
+
 ✔️ Implementação de menus (jogar, ranking, instruções, dificuldade e sair)
+
 ✔️ Cadastro de usuários e armazenamento de pontuações em arquivo binário
 
 ## 🛠️ Requisitos:
@@ -23,10 +26,9 @@ Compile o código main.c usando o seguinte comando (no terminal):
 ```gcc main.c -o game```
 
 Execute o jogo:
-bash
-Copiar
-Editar
-./game
+
+```./game```
+
 Isso irá abrir o menu principal onde, após inserir seu nome, você pode escolher as opções de jogar, acessar o ranking, ver instruções, alterar a dificuldade ou sair do jogo.
 
 ## 🔧 Objetivos do Projeto:
@@ -63,15 +65,13 @@ Make sure you have a C compiler installed on your system (e.g., GCC).
 Clone the repository or download the .zip file.
 Navigate to the folder where the files were extracted.
 Compile the code in main.c using the following command (in terminal):
-css
-Copiar
-Editar
-gcc main.c -o game
+
+```gcc main.c -o game```
+
 Run the game:
-bash
-Copiar
-Editar
-./game
+
+```./game```
+
 This will open the main menu where you can choose to play, check the ranking, view instructions, change difficulty or exit the game.
 
 ## 🔧 Project Goals:
