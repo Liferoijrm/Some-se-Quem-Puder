@@ -49,8 +49,6 @@ O jogo implementa uma lógica de menus e permite o cadastro de usuários e o arm
 ## ⚠️ Aviso:
 O código fornecido deve ser compilado e executado em um ambiente de terminal com suporte à linguagem C. Certifique-se de que todas as dependências necessárias estejam instaladas para o correto funcionamento.
 
-------@------
-
 ## 🇺🇸 Some-se Quem Puder - Mathematical Logic Game
 Some-se Quem Puder is a number logic game inspired by NumberSums, developed as the final project for the Algorithms and Computer Programming (ACP) course in the 1st semester of the Computer Science program at UnB.
 
