@@ -38,11 +38,11 @@ Isso irá abrir o menu principal onde, após inserir seu nome, você pode escolh
 ## 🔧 Objetivos do Projeto:
 O projeto foi desenvolvido com o objetivo de aplicar conceitos aprendidos durante a disciplina Algoritmos e Programação de Computadores (APC), como:
 
-Modularização de código: Organização do código em módulos para facilitar manutenção e legibilidade.
+✔️ Modularização de código: Organização do código em módulos para facilitar manutenção e legibilidade.
 
-Manipulação de arquivos em C: Leitura e escrita de arquivos (texto e binários) utilizando funções como fopen, fread, entre outras.
+✔️ Manipulação de arquivos em C: Leitura e escrita de arquivos (texto e binários) utilizando funções como fopen, fread, entre outras.
 
-Estruturas de dados e controle de fluxo: Uso de matrizes, strings, structs, laços de repetição, condicionais e diretivas de pré-processador.
+✔️ Estruturas de dados e controle de fluxo: Uso de matrizes, strings, structs, laços de repetição, condicionais e diretivas de pré-processador.
 
 O jogo implementa uma lógica de menus e permite o cadastro de usuários e o armazenamento das pontuações em um arquivo binário de ranking, criando uma experiência de jogo mais interativa.
 
@@ -58,13 +58,17 @@ The goal of the game is to combine numbers to reach a target value using logical
 
 ## 🎯 Features:
 ✔️ 3 difficulty levels with matrices of different sizes
+
 ✔️ Simple and intuitive terminal interface
+
 ✔️ Menu implementation (play, ranking, instructions, difficulty and exit)
+
 ✔️ User registration and score storage in a binary file
 
 
 ## 🛠️ Technologies and Requirements:
 ✔️ Language: C
+
 ✔️ Environment: Terminal
 
 ## 💻 How to Run:
@@ -87,11 +91,11 @@ This will open the main menu where, after inserting your nickname, you can choos
 ## 🔧 Project Goals:
 This project was developed to apply the concepts learned in the Algorithms and Computer Programming (ACP) course, such as:
 
-Code Modularization: Organizing the code into modules to facilitate maintenance and readability.
+✔️ Code Modularization: Organizing the code into modules to facilitate maintenance and readability.
 
-File Handling in C: Reading and writing to text and binary files using functions like fopen, fread, and others.
+✔️ File Handling in C: Reading and writing to text and binary files using functions like fopen, fread, and others.
 
-Data Structures and Control Flow: Use of matrices, strings, structs, loops, conditionals, and preprocessor directives.
+✔️ Data Structures and Control Flow: Use of matrices, strings, structs, loops, conditionals, and preprocessor directives.
 
 The game implements a menu system and allows user registration and score storage in a binary ranking file, creating a more interactive gaming experience.
 
