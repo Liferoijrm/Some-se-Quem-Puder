@@ -21,17 +21,21 @@ O objetivo do jogo é combinar números para atingir um valor-alvo, utilizando r
 ## 💻 Como Rodar:
 1 - Certifique-se de ter um compilador C instalado no seu sistema (por exemplo, GCC).
 
-2 - Clone o repositório ou faça o download do arquivo .zip.
+2 - Clone o repositório ou faça o download do arquivo **somesequempuder.zip**.
 
 3 - No terminal, navegue até a pasta onde os arquivos foram extraídos.
 
 4 - Compile o código main.c usando o seguinte comando:
 
-```gcc main.c -o game```
+```
+gcc main.c -o game
+```
 
 5 - Execute o jogo:
 
-```./game```
+```
+./game
+```
 
 Isso irá abrir o menu principal onde, após inserir seu nome, você pode escolher as opções de jogar, acessar o ranking, ver instruções, alterar a dificuldade ou sair do jogo.
 
@@ -72,17 +76,21 @@ The goal of the game is to combine numbers to reach a target value using logical
 ## 💻 How to Run:
 1 - Make sure you have a C compiler installed on your system (e.g., GCC).
 
-2 - Clone the repository or download the .zip file.
+2 - Clone the repository or download the **somesequempuder.zip** file.
 
 3 - In terminal, navigate to the folder where the files were extracted.
 
 4 - Compile the code in main.c using the following command:
 
-```gcc main.c -o game```
+```
+gcc main.c -o game
+```
 
 5 - Run the game:
 
-```./game```
+```
+./game
+```
 
 This will open the main menu where, after inserting your nickname, you can choose to play, check the ranking, view instructions, change difficulty or exit the game.
 
